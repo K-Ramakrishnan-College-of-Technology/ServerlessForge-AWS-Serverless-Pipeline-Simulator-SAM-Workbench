@@ -1,0 +1,6 @@
+{
+  "name": "ServerlessForge",
+  "description": "Weekend-ready AWS serverless architecture designer, Step Functions & DynamoDB simulator, IaC generator, and AWS Builder submission studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
